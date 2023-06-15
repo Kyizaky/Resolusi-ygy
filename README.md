@@ -1,2 +1,2 @@
 # Kyz-resolusi
-Repo untuk menyimpan Kyz kedepannya
+Repo untuk menyimpan tugas PSI kedepan nya
